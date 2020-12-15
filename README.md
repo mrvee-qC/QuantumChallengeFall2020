@@ -8,5 +8,5 @@ My naive and noobish solution for the QC Challenge 2020 hosted by IBM. Circuits 
 - Week 2b
 - Final Week
  
- ###Issues
+ ### Issues
  - Week 2b broken oracle and execution loop. Will fix it later in the upgraded version
